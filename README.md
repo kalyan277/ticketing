@@ -8,11 +8,15 @@ Docker And Kubernetes for building this application.Scaffold is used for running
 
 For Managing(Processing the Event State) the event emited by the browser NATS Event Bus Is Used.
 
-Typescript is used with express sever.Jest and Supertest are for testing the behaviour.
+Typescript is used with express.Jest and Supertest are for automation testing.
 
 MongoDb and Redis are used as Database.
 
 CSS And Bootstrap is used for styling.
+
+Code Optimization And Code Reusability are two prime aspect as far programming is concern.I tried my best to justify that. 
+
+Build a package '@ksticketingorg/common' and published it in to npm.The main objective of this was code reusibilty. 
 
 DEPLOYED LINK
 ------------
